@@ -10,14 +10,14 @@ y = ''
 
 n = int(input("Please enter number of terms to add : "))
 
-total = 0
-i = 1
-num = 1
+# total = 0
+# i = 1
+# num = 1
 
-for num in range(i, n + 1):
-    total += num
+# for num in range(i, n + 1):
+#     total += num
 
-print("Sum is", str(total))
+# print("Sum is", str(total))
 
 
 # Alternate using for loop
@@ -35,3 +35,15 @@ print("Sum is", str(total))
 #     n -= 1
     
 # print("The sum is", sum)
+
+"""
+ALTERNATE USING WHILE
+"""
+
+sum = 0
+i = 1
+
+while i <= n:
+    sum += i
+    i += 1
+print(sum)
