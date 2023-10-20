@@ -1,0 +1,5 @@
+student-id = 1
+student-name = Tony Stark Billionaire Playboy
+course-name = Python for data-science
+course-fee = Rp 10.000.000
+fees-paid = Rp 100.000

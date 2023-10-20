@@ -1,0 +1,5 @@
+student-id = 11
+student-name = Bruce Banner 
+course-name = Python for data-science
+course-fee = Rp 10.000.000
+fees-paid = Rp 100.000
