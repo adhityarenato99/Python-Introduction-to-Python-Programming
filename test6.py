@@ -21,7 +21,7 @@ def myfunc(cl):
 
     if (cl < 2000):
         result = 2000
-    elif (cl > 2000 and cl < 5000):
+    elif (cl > 2000 and cl < 5000): 
         result = 3500
     elif (cl > 5000):
         result = 5000
